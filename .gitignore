@@ -1,0 +1,10 @@
+# Website build and local development
+web/node_modules/
+web/.next/
+web/out/
+web/*.tsbuildinfo
+web/.env*
+!web/.env.example
+web/coverage/
+web/test-results/
+.DS_Store

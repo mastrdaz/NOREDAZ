@@ -1,0 +1,23 @@
+/* Initial values taken from the supplied brand board, subject to final approval. */
+:root {
+  --brand-charcoal: #111827;
+  --brand-ink: #131620;
+  --brand-purple: #7c3aed;
+  --brand-purple-hover: #6929d5;
+  --brand-purple-light: #b59aff;
+  --brand-purple-tint: #f0ebfc;
+  --brand-neutral: #f4f6f9;
+  --brand-white: #ffffff;
+  --brand-muted: #596273;
+  --brand-border: #e0e3eb;
+  --brand-on-dark-muted: #bcc2d2;
+  --brand-font-sans:
+    "Avenir Next", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+}
+@theme inline {
+  --color-charcoal: var(--brand-charcoal);
+  --color-purple: var(--brand-purple);
+  --color-neutral: var(--brand-neutral);
+  --color-muted: var(--brand-muted);
+  --font-sans: var(--brand-font-sans);
+}

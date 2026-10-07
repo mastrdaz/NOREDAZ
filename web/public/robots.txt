@@ -1,0 +1,3 @@
+# Unlaunched website skeleton. Review before any future publication.
+User-agent: *
+Disallow: /
