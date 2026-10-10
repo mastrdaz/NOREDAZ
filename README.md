@@ -1,18 +1,18 @@
-# NOREDAZ Industries
+# NOIRDAZ Industries
 
-Planning and operating repository for **Noredaz Industries**.
+Planning and operating repository for **Noirdaz Industries**.
 
-Noredaz is being developed as a public-facing parent company for practical software, digital services, hosting, and future products. Early planning includes the company structure, brand, employee/sales operations, compliance, and the systems needed to run a very small business cleanly.
+Noirdaz is being developed as a public-facing parent company for practical software, digital services, hosting, and future products. The primary public domain is **noirdaz.com**. Early planning includes the company structure, brand, employee/sales operations, compliance, and the systems needed to run a very small business cleanly.
 
 ## Working structure
 
-- **Noredaz Industries LLC** - parent operating company
-- **Sync Coverage** - workforce scheduling / staffing product
+- **Noirdaz Industries LLC** - parent operating company
+- **Sync Coverage** - workforce scheduling / staffing product; public product domain **synccoverage.com**
 - future public-facing nutrition and inventory products
 - website / hosting / managed digital services
 - employee and customer account infrastructure
 
-Neon Gorilla Labs (NGL) remains the separate experimental/R&D playground. Noredaz is the public-facing company for products and services that are ready to be operated and supported.
+Neon Gorilla Labs (NGL) remains the separate experimental/R&D playground. Noirdaz is the public-facing company for products and services that are ready to be operated and supported.
 
 ## Repository layout
 
@@ -24,7 +24,7 @@ Neon Gorilla Labs (NGL) remains the separate experimental/R&D playground. Noreda
 ## Current priorities
 
 1. Confirm and file the Wisconsin LLC.
-2. Finish Noredaz brand/logo direction.
+2. Finish Noirdaz brand/logo direction.
 3. Establish banking, bookkeeping and payroll stack.
 4. Prepare a lightweight 1-5 employee operating model.
 5. Build the first flexible field-sales role for web/hosting services.
